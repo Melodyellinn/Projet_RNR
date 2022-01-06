@@ -1,0 +1,8 @@
+Découverte et apprentissage pour construire un model IA pou répondre à un problème
+de Time series avec des modèles RNN (ou LSTM) afin de prédire les futures
+consommations d'énergies.
+
+Apprendre à réfectorer son code
+
+Comprendre les class et découvrir quelques fonctionnalités novuelles de Python
+
